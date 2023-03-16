@@ -1,7 +1,7 @@
 ﻿using System;
 namespace EmployeeWageComputation
 {
-    public class Attendance
+    public class EmployeeWage
     {
         const int IS_PRESENT = 1;
         public void attendance()
